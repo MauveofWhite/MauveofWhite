@@ -1,5 +1,5 @@
-<h1 align="center">Hi there, it's Richard! </h1>
 
+<img class="center" alt="Loading" width="90%" src="https://github.com/MauveofWhite/MauveofWhite/blob/master/greetings.png">
 
 <img align="right" alt="Loading" width="32%" src="https://media.giphy.com/media/YAOXhAPvfmZL3vsQwp/giphy.gif">
 <h3>A Quick Intro</h3>
