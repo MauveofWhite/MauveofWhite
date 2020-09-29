@@ -1,7 +1,7 @@
 
 <img class="center" alt="Loading" width="90%" src="https://github.com/MauveofWhite/MauveofWhite/blob/master/greetings.png">
 
-<img align="right" alt="Loading" width="32%" src="https://media.giphy.com/media/YAOXhAPvfmZL3vsQwp/giphy.gif">
+<img align="right" alt="Loading" width="32%" src="https://media.giphy.com/media/2a66IfRi941VAiWiRM/giphy.gif">
 <h3>A Quick Intro</h3>
   
 - 🎓 CS student in UC Berkeley 
