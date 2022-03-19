@@ -8,13 +8,14 @@
 
 - :star: Seeing myself as a **Software Engineering**
 
-- 👨‍💻 Currently working on **CarpeMed**
+- 👨‍💻 Currently working on my startup **Wapply**
 
 - 🌱 Learning and playing with **Google Clouds**
 
+- :spades: Love to show some magic tricks
+
 - :basketball: Ball is life
 
-- :spades: Love to show some magic tricks
 
 <h3>Hit Me Up</h3>
 
